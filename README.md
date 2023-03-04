@@ -14,8 +14,7 @@
 
 ![Image](7.PNG?raw=true "Image")
 
-Video link : https://youtu.be/x4dhilZYbwY
-
+Video link : https://youtu.be/VfYIgJUpl2c
 ### How Install
 
 You can simply run the project by following process
